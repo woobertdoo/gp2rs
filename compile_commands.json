@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/jamieharris/gp-2-rsxml",
+  "command": "/usr/bin/c++  -I/home/jamieharris/gp-2-rsxml/include  -o CMakeFiles/GP2RSXML.dir/main.cpp.o -c /home/jamieharris/gp-2-rsxml/main.cpp",
+  "file": "/home/jamieharris/gp-2-rsxml/main.cpp",
+  "output": "CMakeFiles/GP2RSXML.dir/main.cpp.o"
+},
+{
+  "directory": "/home/jamieharris/gp-2-rsxml/src",
+  "command": "/usr/bin/c++  -I/home/jamieharris/gp-2-rsxml/include  -o CMakeFiles/gp2rs.dir/Extractor.cpp.o -c /home/jamieharris/gp-2-rsxml/src/Extractor.cpp",
+  "file": "/home/jamieharris/gp-2-rsxml/src/Extractor.cpp",
+  "output": "src/CMakeFiles/gp2rs.dir/Extractor.cpp.o"
+},
+{
+  "directory": "/home/jamieharris/gp-2-rsxml/src",
+  "command": "/usr/bin/c++  -I/home/jamieharris/gp-2-rsxml/include  -o CMakeFiles/gp2rs.dir/Note.cpp.o -c /home/jamieharris/gp-2-rsxml/src/Note.cpp",
+  "file": "/home/jamieharris/gp-2-rsxml/src/Note.cpp",
+  "output": "src/CMakeFiles/gp2rs.dir/Note.cpp.o"
+},
+{
+  "directory": "/home/jamieharris/gp-2-rsxml/src",
+  "command": "/usr/bin/c++  -I/home/jamieharris/gp-2-rsxml/include  -o CMakeFiles/gp2rs.dir/NoteBuilder.cpp.o -c /home/jamieharris/gp-2-rsxml/src/NoteBuilder.cpp",
+  "file": "/home/jamieharris/gp-2-rsxml/src/NoteBuilder.cpp",
+  "output": "src/CMakeFiles/gp2rs.dir/NoteBuilder.cpp.o"
+},
+{
+  "directory": "/home/jamieharris/gp-2-rsxml/src",
+  "command": "/usr/bin/c++  -I/home/jamieharris/gp-2-rsxml/include  -o CMakeFiles/gp2rs.dir/Parser.cpp.o -c /home/jamieharris/gp-2-rsxml/src/Parser.cpp",
+  "file": "/home/jamieharris/gp-2-rsxml/src/Parser.cpp",
+  "output": "src/CMakeFiles/gp2rs.dir/Parser.cpp.o"
+},
+{
+  "directory": "/home/jamieharris/gp-2-rsxml/src",
+  "command": "/usr/bin/c++  -I/home/jamieharris/gp-2-rsxml/include  -o CMakeFiles/gp2rs.dir/Chart.cpp.o -c /home/jamieharris/gp-2-rsxml/src/Chart.cpp",
+  "file": "/home/jamieharris/gp-2-rsxml/src/Chart.cpp",
+  "output": "src/CMakeFiles/gp2rs.dir/Chart.cpp.o"
+}
+]

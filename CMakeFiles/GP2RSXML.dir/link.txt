@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/GP2RSXML.dir/link.d CMakeFiles/GP2RSXML.dir/main.cpp.o -o GP2RSXML   -L/home/jamieharris/gp-2-rsxml/src  -Wl,-rpath,/home/jamieharris/gp-2-rsxml/src src/libgp2rs.a -lzip -lpugixml

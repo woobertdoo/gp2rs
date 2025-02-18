@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgp2rs.a CMakeFiles/gp2rs.dir/Extractor.cpp.o CMakeFiles/gp2rs.dir/Note.cpp.o CMakeFiles/gp2rs.dir/NoteBuilder.cpp.o CMakeFiles/gp2rs.dir/Parser.cpp.o CMakeFiles/gp2rs.dir/Chart.cpp.o
+/usr/bin/ranlib libgp2rs.a
